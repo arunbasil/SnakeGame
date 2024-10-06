@@ -61,7 +61,7 @@ Follow these steps to set up the project on your local machine.
 If you're using Git, you can clone the repository. Otherwise, download the project ZIP file and extract it.
 
 ```bash
-git clone https://github.com/yourusername/SnakeGame.git
+git clone https://github.com/arunbasil/SnakeGame
 ```
 
 ### 2. Navigate to the Project Directory
@@ -81,7 +81,7 @@ java -version
 Expected output:
 
 ```
-java version "17.0.x"
+java version "17.0.x" or above
 ```
 
 ### 4. Set `JAVA_HOME` Environment Variable
